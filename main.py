@@ -35,8 +35,7 @@ def aditya():
 
 @app.route('/tanmay')
 def tanmay():
-     return "<center><h1><font size='7'>Tanmay</font></h1><br><h1>Portfolio Under Construction</h1></center>"
-
+     return render_template("tanmay.html")
 @app.route('/requests')
 def requests():
      cur.execute("select * from inquiries")
