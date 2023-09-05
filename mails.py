@@ -3,9 +3,9 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 def mailtoclient(email,name):
-   sender_email = "freelanceuniverse2@gmail.com"
+   sender_email = "duodevelopers9@gmail.com"
    receiver_email = email
-   password = "hxdsvuvkzpyjipge"
+   password = "zcnsuqqnyilkjudw"
 
    message = MIMEMultipart("alternative")
    message["Subject"] = "Thanks for showing interest in our services we'll contact you soon"
@@ -22,7 +22,7 @@ If you have immediate questions, feel free to reply. We're here to make your fre
 Best regards,
 
 Tanmay Arora
-Freelance Universe
+DuoDevelopers
 """.format(name)
 
 
@@ -39,7 +39,7 @@ Freelance Universe
 
 def mailtoourself(email,name,contact,subject):
    sender_email = "examplemsit@gmail.com"
-   receiver_email = "freelanceuniverse2@gmail.com"
+   receiver_email = "duodevelopers9@gmail.com"
    password = "smwtujbcmobbmbda"
 
    message = MIMEMultipart("alternative")
