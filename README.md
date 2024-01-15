@@ -57,8 +57,7 @@ If you'd like to run the site locally, follow these steps:
 
 If you have any questions, feedback, or potential opportunities, feel free to reach out:
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
+- **Email:** duodevelopers9@gmail.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/tanmaycode1/)
 
 Thank you for visiting the DuoDevelopers Freelance Services repository! I look forward to the possibility of working together on exciting web development projects.
